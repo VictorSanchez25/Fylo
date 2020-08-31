@@ -48,7 +48,7 @@ body {
   align-items: flex-end;
   justify-content: space-between;
   margin-bottom: 100px;
-
+  padding: 0 50px;
 }
 
 .row1, .row2, .row3, .row4, .row5 {
@@ -77,6 +77,8 @@ body {
   width: 32%;
   margin-left: 70px;
   z-index: 1;
+  position: relative;
+  left: 50px;
 }
 
 .actions {
@@ -244,13 +246,15 @@ body {
     position: relative;
     top: 50px;
     margin-bottom: 0;
+    padding: 0;
 
 }
 
 .interactions-container {
   margin-bottom: 20px;
   width: 100%;
-
+  position: relative;
+  left: 0;
 }
 .status-container {
   margin-bottom: 100px;
