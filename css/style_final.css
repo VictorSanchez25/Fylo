@@ -142,7 +142,7 @@ body {
   font-weight: bolder;
   color: #1d2c67;
   position: absolute;
-  left: 66%;
+  left: 69%;
   bottom: 80%;
   display: inline;
   border-radius: 12px 12px 0 12px;
@@ -283,7 +283,7 @@ body {
 
 .text-bubble {
   position: relative;
-  top: 10px;
+  top: 2px;
   display: inline-block;
   display: none;
   border-radius: 12px;
