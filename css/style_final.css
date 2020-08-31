@@ -158,6 +158,11 @@ body {
   border-color: white white transparent transparent;
 }
 
+.GB {
+  font-weight: bolder;
+  color: white;
+}
+
 .GB-left {
   font-weight: bold;
   color: #848794;
@@ -166,10 +171,14 @@ body {
 
 .unit-start {
   margin-right: auto;
+  font-weight: bolder;
+  color: white;
   }
 
 .unit-end {
   margin-left: auto;
+  font-weight: bolder;
+  color: white;
 }
 
 .row4 {
