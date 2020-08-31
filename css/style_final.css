@@ -238,14 +238,15 @@ body {
     display: none;
   }
   .main-container {
-    width: 80%;
+    width: 90%;
+    margin-bottom: 0;
+    padding: 0;
     display: flex;
     flex-flow: column nowrap;
     align-items: center;
     position: relative;
     top: 50px;
-    margin-bottom: 0;
-    padding: 0;
+  
 
 }
 
