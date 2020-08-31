@@ -259,7 +259,7 @@ body {
 .status-container {
   margin-bottom: 100px;
   width: 100%;
-  padding: 30px 15px;
+  padding: 30px 25px;
 
 }
 
@@ -271,11 +271,12 @@ body {
   background-color: white;
   position: relative;
   left: 90%;
-  top: 11%;
+  top: 12%;
 }
 
 .row3   {
     text-align: center;
+    padding-left: 20px;
 }
  
 .row5 {
@@ -288,7 +289,6 @@ body {
 
 .text-bubble {
   position: relative;
-  display: inline-block;
   display: none;
   border-radius: 12px;
   padding: 8px 20px;
@@ -301,7 +301,7 @@ body {
 .mobile {
   display: inline;
   position: relative;
-  bottom: 120px;
+  bottom: 100px;
   left: 0;
 }
 .footer {
