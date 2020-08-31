@@ -259,6 +259,7 @@ body {
 .status-container {
   margin-bottom: 100px;
   width: 100%;
+  padding: 30px 15px;
 
 }
 
@@ -270,11 +271,15 @@ body {
   background-color: white;
   position: relative;
   left: 90%;
-  top: 10%;
+  top: 11%;
 }
 
 .row3   {
     text-align: center;
+}
+ 
+.row5 {
+  margin-bottom: 10px;
 }
 
 .description * {
